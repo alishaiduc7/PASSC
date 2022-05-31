@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<class>
+    <student>
+        <id>1</id>
+        <nume>Alis</nume>
+        <nota>7.5</nota>
+    </student>
+    <student>
+        <id>2</id>
+        <nume>Andreea</nume>
+        <nota>8</nota>
+    </student>
+    <student>
+        <id>3</id>
+        <nume>Mihai</nume>
+        <nota>6</nota>
+    </student>
+    <student>
+        <id>4</id>
+        <nume>Remus</nume>
+        <nota>9</nota>
+    </student>
+</class>
